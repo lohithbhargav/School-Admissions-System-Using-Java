@@ -1,0 +1,8 @@
+Total 
+10000
+TutionFee
+7500
+BusFee
+1500
+BookFee
+1000
